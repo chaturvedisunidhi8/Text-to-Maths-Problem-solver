@@ -1,0 +1,10 @@
+langchain
+validators==0.28.1
+streamlit
+langchain_community
+langchain_groq
+youtube_transcript_api
+unstructured
+dotenv
+wikipedia
+numexpr
